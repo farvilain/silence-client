@@ -1,0 +1,19 @@
+{
+  "name": "silence-client",
+  "version": "0.0.1",
+  "description": "Default client for silence ws",
+  "author": {
+    "name": "Francois A.R. Vilain",
+    "email": "far.vilain@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:farvilain/silence-client.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
