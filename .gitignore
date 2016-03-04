@@ -4,3 +4,4 @@
 /app-cov/
 /lib-cov/
 /config.js
+.npmrc
