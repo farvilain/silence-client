@@ -8,7 +8,11 @@ Super simple client to connect Rest API built with JSON
 
 
 ```javascript
-var client = require('silence-client')("localhost", 80, false);
+var client = require('silence-client')({
+	host	: "localhost",
+	port	: 80,
+	secured : false
+});
 
 var request = {
 	path : "/user",
