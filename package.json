@@ -1,6 +1,6 @@
 {
   "name": "silence-client",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Default client for silence-ws",
   "author": {
     "name": "Francois A.R. Vilain",
